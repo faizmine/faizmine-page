@@ -45,12 +45,6 @@ FAIZMINE — личная страница с собранием:
 |---------------------|----------------------------------|
 | [@FaizSofts](https://t.me/FaizSofts)         | Скрипты, софт, автоматизация     |
 | [@Faizmine_Sklad](https://t.me/Faizmine_Sklad) | Старые, но актуальные ресурсы    |
-| [@Faizmine01](https://t.me/Faizmine01)       | Личный блог, анонсы, размышления |
+| [@Faiztahs](https://t.me/Faizmine01)       | канал продажи юзернеймов    |
 
 ---
-
-## 🤖 Боты для пробива
-
-- [@DoxingFaiz](https://t.me/DoxingFaiz) — Актуальность и статус ботов
-- [@sherlock_kriminal_bot](https://t.me/sherlock_kriminal_bot) — Зеркало Sherlock
-- [@telebotik_robot](https://t.me/telebotik_robot) — Зеркало Fanstat
