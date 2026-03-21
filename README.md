@@ -34,20 +34,8 @@ FAIZMINE — личная страница с собранием:
 | Назначение                  | Ссылка |
 |----------------------------|--------|
 | Основной аккаунт           | [@faizmine](https://t.me/faizmine) |
-| Бот обратной связи         | [@Faiz_contorller_bot](https://t.me/Faiz_contorller_bot) |
-| Главное меню               | [@faizmine_menu](https://t.me/faizmine_menu) |
-
----
-
-## 🛠️ Услуги
-
-- Адаптер: [@faiz_adapter](https://t.me/faiz_adapter)
-- Реклама на:
-  - [@FaizSofts](https://t.me/FaizSofts)
-  - [@Faizmine01](https://t.me/Faizmine01)
-  - [@Faizmine_Sklad](https://t.me/Faizmine_Sklad)
-- Гарант — **0.1$** / сделка
-- Добровольная помощь: [@faiz_dobrota](https://t.me/faiz_dobrota)
+| Бот обратной связи         | [@faizmine_bot](https://t.me/Faizmine_bot) |
+| Главное меню               | [@faizmenu](https://t.me/faizmenu) |
 
 ---
 
