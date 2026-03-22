@@ -11,7 +11,7 @@
   <a href="https://t.me/faizmine">
     <img src="https://img.shields.io/badge/@faizmine-личный профиль-2AABEE?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
-  <a href="https://t.me/faizmine_menu">
+  <a href="https://t.me/faizmenu">
     <img src="https://img.shields.io/badge/@faizmine_menu-меню%20сервисов-blue?style=for-the-badge&logo=telegram" alt="Меню">
   </a>
 </p>
